@@ -1,3 +1,5 @@
+![](https://github.com/Barbaris2/-JavaScript-custom-plagin-select/blob/master/img/select.png)
+
 # [JavaScript]custom-plagin-select
 
 Плагин _select_ написанный на JavaScript. Плагином можно управлять программно. Для сборки проекта использовался бандлер [Parcel](https://parceljs.org/).
