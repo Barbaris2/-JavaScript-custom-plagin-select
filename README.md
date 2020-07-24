@@ -5,10 +5,9 @@
 ### Быстрый старт
 
 - клонируйте репозиторий: `git clone https://github.com/Barbaris2/-JavaScript-custom-plagin-select.git`
-- уcтановите зависимости: `yarn install` или `npm install`
-- перейдите в нужную ветку(_см. описание веток ниже_): `git checkout <branch name>`
-- запустите проект: `yarn start` or `npm start`
-- откройте [http://localhost:3000](http://localhost:3000) в Вашем браузере.
+- установите parcel `npm install -g parcel-bundler`
+- укажите точку входа, выполнив в терминале команду `parcel index.html`
+- откройте [http://localhost:1234](http://localhost:1234) в Вашем браузере.
 
 ## Описание веток
 
